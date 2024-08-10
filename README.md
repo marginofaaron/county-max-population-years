@@ -1,6 +1,6 @@
 # Overview
 
-This project uses historical Census data to find the peak population year of every county in the US between 1920 and 2020. It is summarized in a blog post on my website [here](https://marginofaaron.netlify.app/).
+This project uses historical Census data to find the peak population year of every county in the US between 1920 and 2020. It is summarized in a blog post on my website [here](https://aaroneolson.com/2024/08/09/when-did-each-county-s-population-peak/).
 
 If you want to view the full R code for the project, that can be found in the R Notebook file [here](https://github.com/marginofaaron/county-max-population-years/blob/main/my_notebook.Rmd). A fully-rendered HTML version can be downloaded and opened in a browser [here](https://github.com/marginofaaron/county-max-population-years/blob/main/my_notebook.html).
 
